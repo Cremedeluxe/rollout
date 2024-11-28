@@ -4,7 +4,7 @@ date: 2024-11-27 20:00:00 +0100
 categories: [Optimisation, Homme Bien]
 tags: [Grindset, Motivationnal]
 image:
-  path: "/assets/img/Externe compétitif.png"
+  path: "/assets/img/Externe competitif.png"
   alt: "Réelle image d’un étudiant en médecine fan de la culture manga"
 toc: true
 comments: false

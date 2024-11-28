@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://rollout.fr/</id>
   <title>THE ROLLOUT</title>
-  <subtitle>C'est une journal de bord </subtitle>
-  <updated>2024-11-28T13:33:53+01:00</updated>
+  <subtitle>C'est un journal de bord </subtitle>
+  <updated>2024-11-28T13:56:37+01:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://rollout.fr/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://rollout.fr/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="fr"
-    href="http://localhost:4000/"/>
+    href="https://rollout.fr/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2024 your_full_name </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Comment devenir un externe compétitif</title>
-    <link href="http://localhost:4000/posts/Comment-devenir-un-externe-comp%C3%A9titif/" rel="alternate" type="text/html" title="Comment devenir un externe compétitif" />
+    <link href="https://rollout.fr/posts/Comment-devenir-un-externe-comp%C3%A9titif/" rel="alternate" type="text/html" title="Comment devenir un externe compétitif" />
     <published>2024-11-27T20:00:00+01:00</published>
   
     <updated>2024-11-27T20:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Comment-devenir-un-externe-comp%C3%A9titif/</id>
-    <content type="text/html" src="http://localhost:4000/posts/Comment-devenir-un-externe-comp%C3%A9titif/" />
+    <id>https://rollout.fr/posts/Comment-devenir-un-externe-comp%C3%A9titif/</id>
+    <content type="text/html" src="https://rollout.fr/posts/Comment-devenir-un-externe-comp%C3%A9titif/" />
     <author>
       <name>your_full_name</name>
     </author>
